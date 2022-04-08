@@ -1,0 +1,9 @@
+{
+	"name": "kt001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82b46f99-c57b-4207-8462-9316a6cf6c1e",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
